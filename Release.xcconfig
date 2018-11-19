@@ -16,7 +16,7 @@
 // along with this program. If not, see http://www.gnu.org/licenses/.
 // 
 
-WIRE_BUILD_NUMBER =
+WIRE_BUILD_NUMBER = $(BUILD_NUMBER)
 SSO_URL_SCHEME = wire-sso
 WIRE_BUNDLE_ID = com.wearezeta.zclient.ios
 
@@ -32,4 +32,4 @@ CODE_SIGN_ENTITLEMENTS_APP = Wire-iOS/Entitlements-Prod.entitlements
 CODE_SIGN_ENTITLEMENTS_SHARE_EXT = Wire-iOS Share Extension/Wire-iOS Share Extension.entitlements
 
 // API Keys
-HOCKEY_APP_ID =
+HOCKEY_APP_ID = abcdef0123456789
