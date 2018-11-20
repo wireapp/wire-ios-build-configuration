@@ -35,3 +35,6 @@ HOCKEY_APP_ID = 0123456789abcdef
 
 // App icon from asset bundle
 APPICON_NAME = AppIcon-Debug
+
+// Other flags that are passed to C preprocessor
+OTHER_PREPROCESSOR_FLAGS = 
