@@ -21,7 +21,6 @@ SSO_URL_SCHEME = wire-sso-alpha
 WIRE_BUNDLE_ID = com.wearezeta.zclient-alpha
 
 //Code Signing
-//
 CODE_SIGN_IDENTITY = iPhone Developer
 
 DEVELOPMENT_TEAM = W5KEQBF9B5
@@ -33,3 +32,6 @@ CODE_SIGN_ENTITLEMENTS_SHARE_EXT = Wire-iOS Share Extension/Wire-iOS Share Exten
 
 // API Keys
 HOCKEY_APP_ID = 0123456789abcdef
+
+// App icon from asset bundle
+APPICON_NAME = AppIcon-Debug
