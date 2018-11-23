@@ -1,0 +1,6 @@
+{
+    "backendURL" : "https://prod-nginz-https.wire.com",
+    "backendWSURL" : "https://prod-nginz-ssl.wire.com",
+    "blackListURL" : "https://clientblacklist.wire.com/prod/ios",
+    "frontendURL" : "https://wire.com"
+}
