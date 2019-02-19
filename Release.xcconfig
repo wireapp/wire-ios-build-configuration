@@ -18,6 +18,7 @@
 
 WIRE_BUILD_NUMBER = $(BUILD_NUMBER)
 SSO_URL_SCHEME = wire-sso
+WIRE_URL_SCHEME = wire
 WIRE_BUNDLE_ID = com.wearezeta.zclient.ios
 
 //Code Signing
