@@ -8,8 +8,8 @@
     "pinned_keys" : [
     ],
     "password_rules": {
-        "minimum-length": 12,
-        "maximum-length": 200,
+        "minimum-length": 8,
+        "maximum-length": 120,
         "allowed-characters": [
             "unicode"
         ],
