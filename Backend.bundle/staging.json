@@ -6,18 +6,5 @@
         "frontendURL" : "https://staging-website.zinfra.io"
     },
     "pinned_keys" : [
-    ],
-    "password_rules": {
-        "minimum-length": 8,
-        "maximum-length": 120,
-        "allowed-characters": [
-            "unicode"
-        ],
-        "required-characters": [
-            "digits",
-            "lowercase",
-            "uppercase",
-            "special"
-        ]
-    }
+    ]
 }
