@@ -1,5 +1,6 @@
 {
     "endpoints" : {
+        "title" : "Staging",
         "backendURL" : "https://staging-nginz-https.zinfra.io",
         "backendWSURL" : "https://staging-nginz-ssl.zinfra.io",
         "blackListURL" : "https://clientblacklist.wire.com/staging",
