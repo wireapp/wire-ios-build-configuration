@@ -1,0 +1,4 @@
+{
+    "deleteAccountOnAuthenticationFailure": false,
+    "blacklistDownloadInterval": 21600
+}
