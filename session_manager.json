@@ -1,0 +1,6 @@
+{
+    "deleteAccountOnAuthenticationFailure": false,
+    "blacklistDownloadInterval": 21600,
+    "blacklistAccountOnJailbreakDetection": false,
+    "deleteAccountOnJailbreakDetection": false
+}
