@@ -1,6 +1,8 @@
 {
-    "deleteAccountOnAuthenticationFailure": false,
+    "wipeOnCookieInvalid": false,
     "blacklistDownloadInterval": 21600,
-    "blacklistAccountOnJailbreakDetection": false,
-    "deleteAccountOnJailbreakDetection": false
+    "blockOnJailbreakOrRoot": false,
+    "wipeOnJailbreakOrRoot": false,
+    "forceAppLock": false,
+    "appLockTimeout": 10
 }
