@@ -4,5 +4,6 @@
     "blockOnJailbreakOrRoot": false,
     "wipeOnJailbreakOrRoot": false,
     "forceAppLock": false,
-    "appLockTimeout": 10
+    "appLockTimeout": 10,
+    "authenticateAfterReboot": false
 }
