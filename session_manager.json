@@ -6,4 +6,5 @@
     "forceAppLock": false,
     "appLockTimeout": 10,
     "authenticateAfterReboot": false
+    "messageRetentionInterval": 600
 }
