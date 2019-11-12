@@ -28,9 +28,6 @@ DEVELOPMENT_TEAM = W5KEQBF9B5
 PROVISIONING_PROFILE_SPECIFIER_APP = Wire Alpha Development
 PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT = Wire Alpha Development Share Ext
 
-// API Keys
-HOCKEY_APP_ID = 
-
 // App icon from asset bundle
 APPICON_NAME = AppIcon-Debug
 

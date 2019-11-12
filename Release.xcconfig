@@ -28,9 +28,6 @@ DEVELOPMENT_TEAM = EDF3JCE8BC
 PROVISIONING_PROFILE_SPECIFIER_APP = iOS Store Distribution com.wearezeta.zclient.ios
 PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT = iOS Store Share Extension
 
-// API Keys
-HOCKEY_APP_ID = 
-
 // App icon from asset bundle
 APPICON_NAME = AppIcon
 
