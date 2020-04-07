@@ -2,8 +2,8 @@
     "endpoints" : {
         "backendURL" : "https://aves.services.zinfra.io",
         "backendWSURL" : "https://aves.services.zinfra.io",
-        "blackListURL" : "https://clientblacklist.wire.com/staging",
-        "teamsURL" : "https://wire-teams-staging.zinfra.io",
+        "blackListURL" : "https://clientblacklist.wire.com/prod/android",
+        "teamsURL" : "https://aves.services.zinfra.io",
         "accountsURL" : "https://aves.services.zinfra.io",
         "websiteURL" : "https://aves.services.zinfra.io"
     },
