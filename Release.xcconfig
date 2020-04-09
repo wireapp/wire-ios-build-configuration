@@ -30,6 +30,3 @@ PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT = iOS Store Share Extension
 
 // App icon from asset bundle
 APPICON_NAME = AppIcon
-
-// Other flags that are passed to C preprocessor
-OTHER_PREPROCESSOR_FLAGS = 
