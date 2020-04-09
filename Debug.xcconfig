@@ -30,6 +30,3 @@ PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT = Wire Alpha Development Share Ext
 
 // App icon from asset bundle
 APPICON_NAME = AppIcon-Debug
-
-// Other flags that are passed to C preprocessor
-OTHER_PREPROCESSOR_FLAGS = 
