@@ -1,11 +1,11 @@
 {
     "endpoints" : {
-        "backendURL" : "https://staging-nginz-https.zinfra.io",
-        "backendWSURL" : "https://staging-nginz-ssl.zinfra.io",
-        "blackListURL" : "https://clientblacklist.wire.com/staging",
-        "teamsURL" : "https://wire-teams-staging.zinfra.io",
-        "accountsURL" : "https://wire-account-staging.zinfra.io",
-        "websiteURL" : "https://wire.com"
+        "backendURL" : "https://aves.services.zinfra.io",
+        "backendWSURL" : "https://aves.services.zinfra.io",
+        "blackListURL" : "https://clientblacklist.wire.com/prod/android",
+        "teamsURL" : "https://aves.services.zinfra.io",
+        "accountsURL" : "https://aves.services.zinfra.io",
+        "websiteURL" : "https://aves.services.zinfra.io"
     },
     "title" : "Staging",
     "pinned_keys" : [
