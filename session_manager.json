@@ -7,4 +7,8 @@
     "appLockTimeout": 10,
     "authenticateAfterReboot": false,
     "useBiometricsOrAccountPassword": false
+    "callCenterConfiguration": {
+        "maxVideoParticipants": 4,
+        "useConferenceCalling": true 
+    }
 }
