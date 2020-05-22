@@ -9,6 +9,6 @@
     "useBiometricsOrAccountPassword": false
     "callCenterConfiguration": {
         "maxVideoParticipants": 4,
-        "useConferenceCalling": true 
+        "useConferenceCalling": false 
     }
 }
