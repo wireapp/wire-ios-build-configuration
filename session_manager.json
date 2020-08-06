@@ -7,5 +7,5 @@
     "appLockTimeout": 10,
     "authenticateAfterReboot": false,
     "useBiometricsOrAccountPassword": false,
-    "showCameraRollOnUserProfile": false
+    "showCameraRollOnUserProfile": true
 }
