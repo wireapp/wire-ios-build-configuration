@@ -19,6 +19,6 @@
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
 
-CLIPBOARD_ENABLED=0
-SAVE_MESSAGE_ENABLED=0
-PROFILE_CAMERA_ROLL_ENABLED=0
+CLIPBOARD_ENABLED=1
+SAVE_MESSAGE_ENABLED=1
+PROFILE_CAMERA_ROLL_ENABLED=1
