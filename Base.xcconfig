@@ -16,4 +16,6 @@
 // along with this program. If not, see http://www.gnu.org/licenses/.
 // 
 
+#include "./Security-Flags.xcconfig"
+
 WIRE_PRODUCT_NAME = Wire
