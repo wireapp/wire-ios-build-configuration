@@ -27,6 +27,7 @@ CODE_SIGN_IDENTITY = iPhone Distribution: Wire Swiss GmbH (EDF3JCE8BC)
 DEVELOPMENT_TEAM = EDF3JCE8BC
 PROVISIONING_PROFILE_SPECIFIER_APP = iOS Store Distribution com.wearezeta.zclient.ios
 PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT = iOS Store Share Extension
+PROVISIONING_PROFILE_SPECIFIER_NOTIFICATION_EXT = iOS Store Notification Service Extension
 
 // App icon from asset bundle
 APPICON_NAME = AppIcon
