@@ -8,9 +8,5 @@
     "appLockTimeout": 10,
     "authenticateAfterReboot": false,
     "useBiometricsOrAccountPassword": true,
-    "useCustomCodeInsteadOfAccountPassword": true,
-    "callCenterConfiguration": {
-        "videoParticipantsLimit": 4,
-        "useConferenceCalling": false 
-    }
+    "useCustomCodeInsteadOfAccountPassword": true
 }
