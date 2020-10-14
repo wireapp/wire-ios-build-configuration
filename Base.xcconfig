@@ -19,3 +19,4 @@
 #include "./Security-Flags.xcconfig"
 
 WIRE_PRODUCT_NAME = Wire
+EXCLUDED_ARCHS = i386
