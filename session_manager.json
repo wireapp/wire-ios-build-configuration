@@ -6,7 +6,6 @@
     "forceAppLock": false,
     "appLockTimeout": 10,
     "authenticateAfterReboot": false,
-    "useBiometricsOrAccountPassword": false,
-    "useCustomCodeInsteadOfAccountPassword": false,
+    "useBiometricsOrCustomPasscode": false,
     "encryptionAtRestEnabledByDefault": false
 }
