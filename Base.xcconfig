@@ -20,4 +20,3 @@
 
 WIRE_PRODUCT_NAME = Wire
 EXCLUDED_ARCHS = i386
-EXCLUDED_ARCHS[sdk=iphonesimulator*] = arm64
