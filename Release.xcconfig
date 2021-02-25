@@ -31,5 +31,3 @@ PROVISIONING_PROFILE_SPECIFIER_NOTIFICATION_EXT = iOS Store Notification Service
 
 // App icon from asset bundle
 APPICON_NAME = AppIcon
-
-EXCLUDED_ARCHS = i386
