@@ -21,3 +21,5 @@
 WIRE_PRODUCT_NAME = Wire
 
 EXCLUDED_ARCHS[sdk=iphoneos*] = i386
+// Fix complier issue when a Carthage framework is imported: module 'XXX' was created for incompatible target arm64-apple-ios10.0
+EXCLUDED_ARCHS[sdk=iphonesimulator*] = i386 arm64

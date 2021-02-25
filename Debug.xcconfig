@@ -31,6 +31,3 @@ PROVISIONING_PROFILE_SPECIFIER_NOTIFICATION_EXT = Wire Alpha Development Notific
 
 // App icon from asset bundle
 APPICON_NAME = AppIcon-Debug
-
-// Fix complier issue when a Carthage framework is imported: module 'XXX' was created for incompatible target arm64-apple-ios10.0
-EXCLUDED_ARCHS[sdk=iphonesimulator*] = i386 arm64
