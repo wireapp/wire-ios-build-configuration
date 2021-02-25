@@ -19,3 +19,5 @@
 #include "./Security-Flags.xcconfig"
 
 WIRE_PRODUCT_NAME = Wire
+
+EXCLUDED_ARCHS[sdk=iphoneos*] = i386
