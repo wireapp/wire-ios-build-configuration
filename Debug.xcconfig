@@ -33,4 +33,4 @@ PROVISIONING_PROFILE_SPECIFIER_NOTIFICATION_EXT = Wire Alpha Development Notific
 APPICON_NAME = AppIcon-Debug
 
 // Fix complier issue when a Carthage framework is imported: module 'XXX' was created for incompatible target arm64-apple-ios10.0
-EXCLUDED_ARCHS[sdk=*] = i386 arm64
+EXCLUDED_ARCHS = i386 arm64
