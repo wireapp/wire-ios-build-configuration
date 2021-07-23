@@ -3,9 +3,6 @@
     "blacklistDownloadInterval": 21600,
     "blockOnJailbreakOrRoot": false,
     "wipeOnJailbreakOrRoot": false,
-    "forceAppLock": false,
-    "appLockTimeout": 10,
     "authenticateAfterReboot": false,
-    "useBiometricsOrCustomPasscode": false,
     "encryptionAtRestEnabledByDefault": false
 }
