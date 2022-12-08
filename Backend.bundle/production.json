@@ -24,6 +24,10 @@
                 {
                     "value" : "prod-assets.wire.com",
                     "rule" : "ends_with"
+                },
+                {
+                    "value" : "clientblacklist.wire.com",
+                    "rule" : "equals"
                 }
             ]
         }
