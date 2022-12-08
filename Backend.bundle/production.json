@@ -24,14 +24,6 @@
                 {
                     "value" : "prod-assets.wire.com",
                     "rule" : "ends_with"
-                },
-                {
-                    "value" : "www.wire.com",
-                    "rule" : "ends_with"
-                },
-                {
-                    "value" : "wire.com",
-                    "rule" : "equals"
                 }
             ]
         }
