@@ -26,11 +26,7 @@
                     "rule" : "ends_with"
                 },
                 {
-                    "value" : "www.wire.com",
-                    "rule" : "ends_with"
-                },
-                {
-                    "value" : "wire.com",
+                    "value" : "clientblacklist.wire.com",
                     "rule" : "equals"
                 }
             ]
