@@ -4,7 +4,7 @@
         "backendWSURL" : "https://nginz-ssl.foma.wire.link",
         "blackListURL" : "https://clientblacklist.wire.com/staging",
         "teamsURL" : "https://teams.foma.wire.link",
-        "accountsURL" : "https://account.chala.wire.link",
+        "accountsURL" : "https://account.foma.wire.link",
         "websiteURL" : "https://wire.com"
     },
     "title" : "Foma Federation Environment"
